@@ -1,0 +1,11 @@
+/Users/mekhiwood-brock/KeanClasses/cps3330_SoftwareDevWithFrameworks/unit_2/lab2Task5LibraryProject/lab2Task5Library/bin/Debug/net8.0/lab2Task5Library.deps.json
+/Users/mekhiwood-brock/KeanClasses/cps3330_SoftwareDevWithFrameworks/unit_2/lab2Task5LibraryProject/lab2Task5Library/bin/Debug/net8.0/lab2Task5Library.dll
+/Users/mekhiwood-brock/KeanClasses/cps3330_SoftwareDevWithFrameworks/unit_2/lab2Task5LibraryProject/lab2Task5Library/bin/Debug/net8.0/lab2Task5Library.pdb
+/Users/mekhiwood-brock/KeanClasses/cps3330_SoftwareDevWithFrameworks/unit_2/lab2Task5LibraryProject/lab2Task5Library/obj/Debug/net8.0/lab2Task5Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mekhiwood-brock/KeanClasses/cps3330_SoftwareDevWithFrameworks/unit_2/lab2Task5LibraryProject/lab2Task5Library/obj/Debug/net8.0/lab2Task5Library.AssemblyInfoInputs.cache
+/Users/mekhiwood-brock/KeanClasses/cps3330_SoftwareDevWithFrameworks/unit_2/lab2Task5LibraryProject/lab2Task5Library/obj/Debug/net8.0/lab2Task5Library.AssemblyInfo.cs
+/Users/mekhiwood-brock/KeanClasses/cps3330_SoftwareDevWithFrameworks/unit_2/lab2Task5LibraryProject/lab2Task5Library/obj/Debug/net8.0/lab2Task5Library.csproj.CoreCompileInputs.cache
+/Users/mekhiwood-brock/KeanClasses/cps3330_SoftwareDevWithFrameworks/unit_2/lab2Task5LibraryProject/lab2Task5Library/obj/Debug/net8.0/lab2Task5Library.dll
+/Users/mekhiwood-brock/KeanClasses/cps3330_SoftwareDevWithFrameworks/unit_2/lab2Task5LibraryProject/lab2Task5Library/obj/Debug/net8.0/refint/lab2Task5Library.dll
+/Users/mekhiwood-brock/KeanClasses/cps3330_SoftwareDevWithFrameworks/unit_2/lab2Task5LibraryProject/lab2Task5Library/obj/Debug/net8.0/lab2Task5Library.pdb
+/Users/mekhiwood-brock/KeanClasses/cps3330_SoftwareDevWithFrameworks/unit_2/lab2Task5LibraryProject/lab2Task5Library/obj/Debug/net8.0/ref/lab2Task5Library.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TestMyRoot/1.0.0": {
+        "dependencies": {
+          "lab2Task5Library": "1.0.0"
+        },
+        "runtime": {
+          "TestMyRoot.dll": {}
+        }
+      },
+      "lab2Task5Library/1.0.0": {
+        "runtime": {
+          "lab2Task5Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestMyRoot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lab2Task5Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
